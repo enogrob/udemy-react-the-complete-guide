@@ -18,7 +18,7 @@ Learn everything you need to about the subject of this `Udemy` project.
 **Section 1: Getting Started**
 [x] 1.Welcome To The Course! 1min
 [x] 2.What is React.js? 5min
-[ ] 3.Why React Instead Of "Just JavaScript"? 7min
+[x] 3.Why React Instead Of "Just JavaScript"? 7min
 [ ] 4.Building Single-Page Applications (SPAs) with React 2min
 [ ] 5.Exploring React.js Alternatives (Angular / Vue) 4min
 [ ] 6.Join our Online Learning Community 1min
