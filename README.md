@@ -17,13 +17,14 @@ Learn everything you need to about the subject of this `Udemy` project.
 
 **Section 1: Getting Started**
 [x] 1.Welcome To The Course! 1min
-[x] 2.What is React.js? 5min
-[x] 3.Why React Instead Of "Just JavaScript"? 7min
-[ ] 4.Building Single-Page Applications (SPAs) with React 2min
-[ ] 5.Exploring React.js Alternatives (Angular / Vue) 4min
-[ ] 6.Join our Online Learning Community 1min
-[ ] 7.About This Course & Course Outline 8min
-[ ] 8.The Two Ways (Paths) Of Taking This Course 4min
-[ ] 9.Getting The Most Out Of This Course 4min
-[ ] 10.Setting Up The Course Dev Environment (Code Editor) 5min
+[x] 2.What is React.js? 3min
+[ ] 3.ReactJS vs "Vanilla JavaScript": Why Use React? 11min
+[ ] 4.Editing Our First React App 4min
+[ ] 5.About This Course & Course Outline 2min
+[ ] 6.The Two Ways (Paths) Of Taking This Course 2min
+[ ] 7.Getting The Most Out Of This Course
+[ ] 8.Join our Online Learning Community 1min
+[ ] 9.Creating React Projects: Browser-based vs Local Development 4min
+[ ] 10.Creating React Projects Locally 8min
+[ ] 11.Using CodeSandbox For React Development (No Local Setup Required!) 3min
 
